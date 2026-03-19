@@ -1,8 +1,6 @@
 name: Metrics
 on:
-  # Schedule updates every 12 hours
   schedule: [{cron: "0 */12 * * *"}]
-  # Lines below let you run it manually for testing
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 
@@ -14,23 +12,26 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: JTamag  # <--- CHANGE THIS
+          user: JTamag  
           template: classic
-          base: header, community, repositories, metadata
+          # 'base' controls the top sections. We removed 'community' and 'activity'
+          base: header, repositories, metadata
           config_timezone: UTC
+
+          # --- LANGUAGES PLUGIN (The actual logos of your code) ---
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8
+          plugin_languages_recent_days: 30
+          plugin_languages_colors: github
+          plugin_languages_threshold: 0%
 
           # --- LEETCODE PLUGIN ---
           plugin_leetcode: yes
-          plugin_leetcode_user: Tamag # <--- CHANGE THIS
+          plugin_leetcode_user: Tamag 
           plugin_leetcode_sections: solved, skills, recent
           plugin_leetcode_limit_recent: 2
-
-          # --- TECH ICONS (Topics) ---
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons # This shows the logos!
-          plugin_topics_sort: stars
