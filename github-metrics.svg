@@ -94,36 +94,36 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="14.464294790343075 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">173</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3935</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="14.533130236100533 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">174</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3939</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="34.503177966101696 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">99</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/944</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="34.81481481481481 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">100</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/945</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="9.756441419543023 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="9.746964545896066 329"/>
                                     <text x="60" y="50" dominant-baseline="central">61</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2057</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2059</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.579229122055675 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.574331550802139 329"/>
                                     <text x="60" y="50" dominant-baseline="central">13</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/934</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/935</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -138,7 +138,7 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x99</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x100</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x43</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x31</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x28</span></div>
@@ -162,8 +162,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Find the Prefix Common Array of Two Arrays</div>
-                            <div class="date">20 May 2026</div>
+                            <div class="title">Check if Array Is Sorted and Rotated</div>
+                            <div class="date">23 May 2026</div>
                         </div>
                     </div>
                     <div class="field">
@@ -171,8 +171,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Minimum Initial Energy to Finish Tasks</div>
-                            <div class="date">12 May 2026</div>
+                            <div class="title">Find the Prefix Common Array of Two Arrays</div>
+                            <div class="date">20 May 2026</div>
                         </div>
                     </div>
                 </section>
