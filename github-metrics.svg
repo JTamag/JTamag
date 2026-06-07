@@ -94,36 +94,36 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="14.996201570017725 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">180</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3949</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="15.064254996205415 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">181</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3953</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="36.13093980992608 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">104</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/947</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="36.439873417721515 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">105</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/948</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="10.047018904507997 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="10.03728813559322 329"/>
                                     <text x="60" y="50" dominant-baseline="central">63</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2063</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2065</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.5548455804046855 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.55 329"/>
                                     <text x="60" y="50" dominant-baseline="central">13</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/939</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/940</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -138,7 +138,7 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x104</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x105</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x45</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x32</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x29</span></div>
@@ -162,8 +162,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Total Waviness of Numbers in Range I</div>
-                            <div class="date">4 Jun 2026</div>
+                            <div class="title">Left and Right Sum Differences</div>
+                            <div class="date">6 Jun 2026</div>
                         </div>
                     </div>
                     <div class="field">
@@ -171,8 +171,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Earliest Finish Time for Land and Water Rides II</div>
-                            <div class="date">3 Jun 2026</div>
+                            <div class="title">Total Waviness of Numbers in Range I</div>
+                            <div class="date">4 Jun 2026</div>
                         </div>
                     </div>
                 </section>
