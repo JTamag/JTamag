@@ -94,8 +94,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="31.906457156886816 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">395</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="31.987232997790326 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">396</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/4073</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -103,8 +103,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="67.90505675954591 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">200</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="68.24458204334366 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">201</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/969</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -140,7 +140,7 @@
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x207</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x94</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x90</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x91</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x68</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x49</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x39</span></div>
@@ -162,8 +162,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Remove Invalid Parentheses</div>
-                            <div class="date">7 Oct 2026</div>
+                            <div class="title">Remove Outermost Parentheses</div>
+                            <div class="date">8 Oct 2026</div>
                         </div>
                     </div>
                     <div class="field">
@@ -171,8 +171,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Path Sum II</div>
-                            <div class="date">6 Oct 2026</div>
+                            <div class="title">Remove Invalid Parentheses</div>
+                            <div class="date">7 Oct 2026</div>
                         </div>
                     </div>
                 </section>
